@@ -2,6 +2,9 @@
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alucarduwu&theme=tokyonight"/>
+</p>
+
+<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=26&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%7C+Web+%26+Mobile;Angular+%7C+Node.js+%7C+React+%7C+Flutter;Building+Scalable+Applications;Learning+SAP+%26+Enterprise+Systems"/>
 </p>
 
@@ -20,7 +23,7 @@
 </a>
 
 <a href="https://portafolioanahi.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/✨ Portfolio-Visit%20Now-black?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </p>
@@ -29,9 +32,9 @@
 
 # 🚀 About Me
 
-Full Stack Developer focused on building **scalable web and mobile applications**.
+Full Stack Developer focused on building **scalable web and mobile applications** with clean architecture and real-world impact.
 
-I specialize mainly in **frontend + backend development**, creating real-world systems and user-focused applications.
+I specialize in **frontend + backend development**, creating user-focused systems, dashboards, and modern interfaces.
 
 💡 Currently expanding into:
 - Flutter mobile development  
@@ -40,12 +43,26 @@ I specialize mainly in **frontend + backend development**, creating real-world s
 
 ---
 
-# 📊 Languages (Real GitHub Stats)
+# 🌐 Portfolio (Main Work)
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alucarduwu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<a href="https://portafolioanahi.vercel.app/">
+<img src="https://img.shields.io/badge/View%20My%20Portfolio-Full%20Projects%20Here-black?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
+</p>
+
+<p align="center">
+Explore my projects, UI designs, and full-stack implementations in one place.
+</p>
+
+---
+
+# 📊 Languages (Real GitHub Stats)
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alucarduwu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </p>
 
 ---
@@ -53,9 +70,7 @@ I specialize mainly in **frontend + backend development**, creating real-world s
 # 🧰 Tech Stack
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=angular,react,vue,nextjs,nodejs,express,nestjs,django,laravel,mysql,mongodb,firebase,flutter,dart,kotlin,git,figma,vscode"/>
-
 </p>
 
 ---
@@ -77,39 +92,41 @@ I specialize mainly in **frontend + backend development**, creating real-world s
 
 ---
 
-# 📌 Featured Projects
-
-### 🟢 Buskq
-
-Business directory platform built with **Angular + Node.js + MySQL**
-
-• Role-based authentication (RBAC)  
-• Admin dashboard  
-• REST API backend  
-
----
-
-### 📱 AllOfMe App
-
-Personal finance app built with **Kotlin + Jetpack Compose**
-
-• Expense tracking  
-• Budget dashboards  
-• Clean architecture  
-
----
+# 📌 Featured Work
 
 ### 🏋️ GymFloWater
-
-Fitness tracking system:
+Fitness tracking platform built for **web and mobile**
 
 • Flutter (Mobile)  
 • React + TypeScript (Web)  
 • SQLite  
 
+Features:
 • Workout tracking  
 • Routine builder  
 • Progress analytics  
+
+---
+
+### 📱 AllOfMe App
+Personal productivity & finance app
+
+• Kotlin + Jetpack Compose  
+• Clean MVVM architecture  
+
+Features:
+• Expense tracking  
+• Budget dashboards  
+• Goal-oriented organization  
+
+---
+
+### 💼 Portfolio Website
+Modern personal portfolio
+
+• Responsive UI  
+• Project-focused structure  
+• Clean and minimal design  
 
 ---
 
