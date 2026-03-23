@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Anahí Lozano 👩‍💻</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&center=true&vCenter=true&width=650&lines=Full+Stack+Software+Developer;Angular+%7C+Node.js+%7C+React+%7C+MySQL;Building+Scalable+Web+Applications;Passionate+about+Tech+and+Innovation"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alucarduwu&theme=tokyonight"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=26&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%7C+Web+%26+Mobile;Angular+%7C+Node.js+%7C+React+%7C+Flutter;Building+Scalable+Applications;Learning+SAP+%26+Enterprise+Systems"/>
 </p>
 
 <p align="center">
@@ -28,16 +29,24 @@
 
 # 🚀 About Me
 
-Full Stack Software Developer focused on building **scalable web applications and enterprise platforms**.
+Full Stack Developer focused on building **scalable web and mobile applications**.
 
-I specialize in:
+I specialize mainly in **frontend + backend development**, creating real-world systems and user-focused applications.
 
-• Angular frontends and modern UI architectures  
-• Node.js / Express REST API development  
-• MySQL relational database design  
-• Administrative dashboards and business systems  
+💡 Currently expanding into:
+- Flutter mobile development  
+- Enterprise systems (SAP - learning)  
+- Scalable SaaS architectures  
 
-Currently working on **full stack platforms and enterprise prototype systems**.
+---
+
+# 📊 Languages (Real GitHub Stats)
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alucarduwu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+</p>
 
 ---
 
@@ -45,9 +54,26 @@ Currently working on **full stack platforms and enterprise prototype systems**.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=angular,react,vue,nextjs,nodejs,express,nestjs,django,laravel,mysql,mongodb,firebase,kotlin,git,figma,vscode"/>
+<img src="https://skillicons.dev/icons?i=angular,react,vue,nextjs,nodejs,express,nestjs,django,laravel,mysql,mongodb,firebase,flutter,dart,kotlin,git,figma,vscode"/>
 
 </p>
+
+---
+
+# 🧠 Enterprise & SAP
+
+• SAP S/4HANA (learning path)  
+• ERP & business processes (learning)  
+• Enterprise software mindset  
+
+---
+
+# 📱 Mobile Development
+
+• Flutter (Dart)  
+• Kotlin + Jetpack Compose  
+• MVVM architecture  
+• SQLite  
 
 ---
 
@@ -57,24 +83,33 @@ Currently working on **full stack platforms and enterprise prototype systems**.
 
 Business directory platform built with **Angular + Node.js + MySQL**
 
-Features
-
-• Administrative dashboard  
 • Role-based authentication (RBAC)  
-• Business directory management  
+• Admin dashboard  
 • REST API backend  
 
 ---
 
 ### 📱 AllOfMe App
 
-Personal finance mobile application built with **Kotlin + Jetpack Compose**
-
-Features
+Personal finance app built with **Kotlin + Jetpack Compose**
 
 • Expense tracking  
 • Budget dashboards  
-• MVVM architecture  
+• Clean architecture  
+
+---
+
+### 🏋️ GymFloWater
+
+Fitness tracking system:
+
+• Flutter (Mobile)  
+• React + TypeScript (Web)  
+• SQLite  
+
+• Workout tracking  
+• Routine builder  
+• Progress analytics  
 
 ---
 
@@ -82,13 +117,7 @@ Features
 
 <p align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Alucarduwu&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alucarduwu&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Alucarduwu&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="165" src="https://streak-stats.demolab.com?user=Alucarduwu&theme=tokyonight&hide_border=true"/>
 
