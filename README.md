@@ -43,7 +43,7 @@ I specialize in **frontend + backend development**, creating user-focused system
 
 ---
 
-# 🌐 Portfolio (Main Work)
+# 🌐 Portafolio (Main Work)
 
 <p align="center">
 
