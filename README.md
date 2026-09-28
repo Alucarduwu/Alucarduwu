@@ -9,171 +9,201 @@
 ╚═╝░░╚═╝╚═╝░░╚══╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝  ╚══════╝░╚════╝░╚══════╝╚═╝░░╚═╝╚═╝░░╚══╝░╚════╝░
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&center=true&vCenter=true&width=800&duration=3000&pause=800&color=7AA2F7&lines=Hi%2C+I'm+Anah%C3%AD+Lozano+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Full+Stack+Developer+%7C+Web+%26+Mobile;Angular+%7C+Node.js+%7C+React+%7C+Flutter;Building+Scalable+Applications+%E2%9C%A8;Learning+SAP+%26+Enterprise+Systems"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&center=true&vCenter=true&width=820&height=60&duration=3200&pause=700&color=7AA2F7&lines=Full+Stack+Developer+%7C+Web+%26+Mobile;Angular+%C2%B7+React+%C2%B7+Node.js+%C2%B7+Flutter;De+la+idea+al+deploy%2C+de+punta+a+punta;Aprendiendo+SAP+S%2F4HANA" alt="Full Stack Developer · Angular, React, Node.js, Flutter"/>
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-anahydlira%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anahydlira@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anahi_Lozano-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anahi-lozano-de-lira-a4213a187/)
-[![Portfolio](https://img.shields.io/badge/✨_Portfolio-Visit_Now-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portafolioanahi.vercel.app/)
+[![Portafolio](https://img.shields.io/badge/PORTAFOLIO-portafolioanahi.vercel.app-7AA2F7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1A1B26)](https://portafolioanahi.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Anahí_Lozano-7AA2F7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1B26)](https://www.linkedin.com/in/anahi-lozano-de-lira-a4213a187/)
+[![Correo](https://img.shields.io/badge/CORREO-anahydlira@gmail.com-7AA2F7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1B26)](mailto:anahydlira@gmail.com)
 
 <br/>
 
-📍 **Aguascalientes, Mexico** &nbsp;|&nbsp; 💼 **Open to opportunities** &nbsp;|&nbsp; 🌙 **Night coder**
+`📍 Aguascalientes, México` &nbsp; `💼 Abierta a oportunidades` &nbsp; `🌙 Night coder`
 
 </div>
 
----
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alucarduwu&theme=tokyonight" width="100%"/>
+<br/>
 
 ---
 
-## 🚀 About Me
+## Sobre mí
 
-> *Full Stack Developer focused on building **scalable web and mobile applications** with clean architecture and real-world impact.*
+Construyo **aplicaciones web y móviles** de punta a punta: la interfaz, la API, la base de datos y el despliegue. Me importa que lo que hago aguante en producción, no solo que se vea bien en la demo.
 
-I specialize in **frontend + backend development**, creating user-focused systems, dashboards, and modern interfaces. I love turning complex problems into elegant, high-performance solutions.
+Ahora mismo trabajo en **Voraa**, una plataforma de lealtad para restaurantes: tarjetas digitales en Apple y Google Wallet, panel para el dueño y caja para el mostrador.
 
 ```ts
-const anahí = {
-  location: "Aguascalientes, Mexico 🇲🇽",
-  stack: ["Angular", "React", "Node.js", "Flutter", "NestJS"],
-  currently_learning: ["Flutter 📱", "SAP S/4HANA 🏢", "SaaS Architecture ☁️"],
-  fun_fact: "I debug at midnight and it somehow always works 🌙"
+const anahi = {
+  ubicacion: "Aguascalientes, México 🇲🇽",
+  stack:     ["Angular", "React", "Node.js", "Flutter", "NestJS"],
+  ahora:     "Voraa · lealtad para restaurantes con Wallet",
+  aprendo:   ["Flutter", "SAP S/4HANA", "Arquitectura SaaS"],
+  mania:     "Depuro de madrugada y sale a la primera 🌙"
 };
 ```
 
+<br/>
+
 ---
 
-## 🌐 Portfolio
+## Proyectos
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🍽️ [Voraa](https://voraa.io) &nbsp;`en producción`
+
+Plataforma de lealtad para restaurantes. Tarjetas en **Apple y Google Wallet**, panel del dueño, caja con escáner y reportes automáticos.
+
+`TypeScript` `React` `Next.js` `PostgreSQL`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏋️ [GymFloWater](https://github.com/Alucarduwu/GymFloWater)
+
+App de seguimiento fitness: rutinas, progreso e hidratación, con analítica de avance.
+
+`Flutter` `Dart` `SQLite`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📱 [Allfome](https://github.com/Alucarduwu/Allfome)
+
+App de productividad y finanzas personales: gastos, presupuestos y tableros.
+
+`Kotlin` `Jetpack Compose` `MVVM`
+
+</td>
+<td width="50%" valign="top">
+
+### 🤟 [SignSpeak](https://github.com/Alucarduwu/SignSpeak)
+
+Proyecto de accesibilidad enfocado en lenguaje de señas.
+
+`JavaScript`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🍿 [Snackify](https://github.com/Alucarduwu/Snackify)
+
+Sitio construido con Astro: estático, ligero y rápido.
+
+`Astro` `TypeScript`
+
+</td>
+<td width="50%" valign="top">
+
+### 👟 [StoreShoes](https://github.com/Alucarduwu/StoreShoes)
+
+Tienda en línea con catálogo, carrito y administración.
+
+`PHP` `MySQL`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📚 [GestorBiblioteca](https://github.com/Alucarduwu/GestorBiblioteca)
+
+Sistema de gestión de biblioteca: catálogo, préstamos y devoluciones.
+
+`HTML` `JavaScript`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏢 [SapAbap4HanaPrueba](https://github.com/Alucarduwu/SapAbap4HanaPrueba)
+
+Prácticas de **ABAP CDS** sobre SAP S/4HANA.
+
+`ABAP CDS` `SAP`
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🚀_View_My_Portfolio-Full_Projects_Inside-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111)](https://portafolioanahi.vercel.app/)
-
-*Explore my projects, UI designs, and full-stack implementations in one place.*
+**[→ Ve todos los proyectos en mi portafolio](https://portafolioanahi.vercel.app/)**
 
 </div>
 
+<br/>
+
 ---
 
-## 🧰 Tech Stack
+## Tecnologías
 
 <div align="center">
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=angular,react,vue,nextjs,typescript,tailwind"/>
+<img src="https://skillicons.dev/icons?i=angular,react,vue,nextjs,astro,typescript,tailwind" alt="Angular, React, Vue, Next.js, Astro, TypeScript, Tailwind"/>
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,laravel,python"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,laravel,php,python" alt="Node.js, Express, NestJS, Django, Laravel, PHP, Python"/>
 
-**Mobile**
+**Móvil**
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,android"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio" alt="Flutter, Dart, Kotlin, Android Studio"/>
 
-**Database & Cloud**
+**Datos y nube**
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,postgresql,redis"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,supabase,vercel" alt="PostgreSQL, MySQL, MongoDB, Firebase, Supabase, Vercel"/>
 
-**Tools & Design**
+**Herramientas**
 
-<img src="https://skillicons.dev/icons?i=git,figma,vscode,docker,github"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,postman" alt="Git, GitHub, Docker, Figma, VS Code, Postman"/>
 
 </div>
+
+<br/>
 
 ---
 
-## 📊 GitHub Stats
+## Estadísticas
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alucarduwu&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Alucarduwu&theme=tokyonight"/>
+[![Seguidores](https://img.shields.io/github/followers/Alucarduwu?style=for-the-badge&logo=github&label=SEGUIDORES&color=7AA2F7&labelColor=1A1B26)](https://github.com/Alucarduwu?tab=followers)
+[![Estrellas](https://img.shields.io/github/stars/Alucarduwu?style=for-the-badge&logo=github&label=ESTRELLAS&color=7AA2F7&labelColor=1A1B26)](https://github.com/Alucarduwu?tab=repositories)
+![Repositorios](https://img.shields.io/badge/REPOSITORIOS-13-7AA2F7?style=for-the-badge&logo=github&labelColor=1A1B26)
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Alucarduwu&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=es" alt="Racha de contribuciones"/>
 
 </div>
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Alucarduwu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="170" src="https://streak-stats.demolab.com?user=Alucarduwu&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alucarduwu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</div>
+<br/>
 
 ---
 
-## 📌 Featured Projects
-
 <div align="center">
 
-| 🏋️ GymFloWater | 📱 AllOfMe App | 💼 Portfolio |
-|---|---|---|
-| Fitness tracking platform | Personal productivity & finance | Modern personal portfolio |
-| Flutter · React · TypeScript · SQLite | Kotlin · Jetpack Compose · MVVM | Responsive · Clean · Fast |
-| Workout tracking · Progress analytics | Expense tracking · Budget dashboards | Project-focused structure |
+### ¿Trabajamos juntas?
 
-</div>
+[![Portafolio](https://img.shields.io/badge/Portafolio-7AA2F7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1A1B26)](https://portafolioanahi.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7AA2F7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1B26)](https://www.linkedin.com/in/anahi-lozano-de-lira-a4213a187/)
+[![Correo](https://img.shields.io/badge/Correo-7AA2F7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1B26)](mailto:anahydlira@gmail.com)
 
----
+<br/>
 
-## 🧠 Enterprise & Mobile
-
-<div align="center">
-
-| 🏢 Enterprise & SAP | 📱 Mobile Development |
-|---|---|
-| SAP S/4HANA *(learning)* | Flutter (Dart) |
-| ERP & business processes | Kotlin + Jetpack Compose |
-| Enterprise software mindset | MVVM architecture · SQLite |
-
-</div>
-
----
-
-## 👀 Profile Visitors
-
-<div align="center">
-
-<!-- Contador total de visitas -->
-<img src="https://komarev.com/ghpvc/?username=Alucarduwu&color=7aa2f7&style=for-the-badge&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=Alucarduwu&color=7aa2f7&style=for-the-badge&label=VISITAS+AL+PERFIL" alt="Visitas al perfil"/>
 
 <br/><br/>
 
-<!-- Mapa de visitas por país -->
-<a href="https://info.flagcounter.com/Alucarduwu">
-  <img src="https://s01.flagcounter.com/count2/Alucarduwu/bg_1a1b26/txt_7aa2f7/border_414868/columns_5/maxflags_20/viewers_0/labels_1/pageviews_1/flags_0/percent_1/" 
-       alt="Flag Counter" 
-       border="0"/>
-</a>
-
-<br/>
-
-> 🗺️ *Countries visiting this profile — powered by Flag Counter*
-
-</div>
-
----
-
-## 📫 Contact
-
-<div align="center">
-
-| Platform | Link |
-|---|---|
-| 📧 Email | anahydlira@gmail.com |
-| 💼 LinkedIn | [anahi-lozano-de-lira](https://www.linkedin.com/in/anahi-lozano-de-lira-a4213a187/) |
-| 🌐 Portfolio | [portafolioanahi.vercel.app](https://portafolioanahi.vercel.app/) |
-
-<br/>
-
-*⭐ If you like my work, consider giving a star to my repos!*
+<sub>⭐ Si algo de aquí te sirve, una estrella siempre se agradece.</sub>
 
 </div>
