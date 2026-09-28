@@ -1,4 +1,2 @@
-branch_structure.json
-temp_auto_push.bat
-temp_interactive_push.bat
-.gitignore
+# Configuración del editor: fue la puerta del malware (tasks.json con runOn folderOpen)
+.vscode/
